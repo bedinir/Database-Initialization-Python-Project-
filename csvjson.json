@@ -1,0 +1,7002 @@
+[
+  {
+    "Region": "North",
+    "Age": 57,
+    "Income": 71613,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 46,
+    "Income": 70779,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 42,
+    "Income": 98754,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 36,
+    "Income": 21010,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 85,
+    "Income": 94980,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 62,
+    "Income": 53979,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 63,
+    "Income": 98869,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 72,
+    "Income": 65119,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 18,
+    "Income": 75006,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 28,
+    "Income": 78981,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 85,
+    "Income": 96673,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 24,
+    "Income": 34479,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 75,
+    "Income": 47625,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 88,
+    "Income": 70925,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 37,
+    "Income": 44081,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 52,
+    "Income": 62933,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 68,
+    "Income": 35766,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 38,
+    "Income": 99309,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 61,
+    "Income": 77611,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 18,
+    "Income": 87465,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 84,
+    "Income": 83986,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 30,
+    "Income": 64982,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 33,
+    "Income": 20947,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 51,
+    "Income": 48719,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 41,
+    "Income": 64529,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 30,
+    "Income": 34590,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 23,
+    "Income": 64406,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 56,
+    "Income": 72652,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 19,
+    "Income": 42728,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 28,
+    "Income": 36876,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 24,
+    "Income": 65074,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 24,
+    "Income": 36889,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 56,
+    "Income": 70405,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 68,
+    "Income": 83076,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 69,
+    "Income": 53130,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 20,
+    "Income": 22205,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 47,
+    "Income": 62139,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 27,
+    "Income": 43185,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 23,
+    "Income": 69547,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 71,
+    "Income": 23377,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 83,
+    "Income": 99176,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 61,
+    "Income": 24440,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 80,
+    "Income": 78883,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 65,
+    "Income": 36015,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 39,
+    "Income": 48601,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 36,
+    "Income": 69283,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 31,
+    "Income": 44438,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 24,
+    "Income": 76292,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 66,
+    "Income": 26076,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 58,
+    "Income": 62919,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 44,
+    "Income": 33822,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 48,
+    "Income": 73405,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 23,
+    "Income": 39381,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 33,
+    "Income": 65123,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 81,
+    "Income": 75499,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 55,
+    "Income": 76695,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 77,
+    "Income": 41583,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 50,
+    "Income": 24698,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 80,
+    "Income": 76545,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 28,
+    "Income": 41515,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 30,
+    "Income": 60439,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 82,
+    "Income": 79525,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 47,
+    "Income": 37310,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 40,
+    "Income": 54372,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 37,
+    "Income": 61504,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 23,
+    "Income": 73029,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 54,
+    "Income": 60107,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 23,
+    "Income": 28829,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 44,
+    "Income": 65613,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 30,
+    "Income": 91965,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 25,
+    "Income": 94907,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 70,
+    "Income": 48391,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 47,
+    "Income": 69947,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 18,
+    "Income": 82493,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 21,
+    "Income": 28318,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 79,
+    "Income": 90731,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 85,
+    "Income": 79489,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 34,
+    "Income": 23278,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 74,
+    "Income": 31531,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 80,
+    "Income": 89066,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 74,
+    "Income": 28025,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 66,
+    "Income": 29906,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 35,
+    "Income": 27208,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 75,
+    "Income": 26430,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 27,
+    "Income": 94875,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 80,
+    "Income": 40043,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 51,
+    "Income": 49987,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 22,
+    "Income": 24564,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 34,
+    "Income": 62559,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 89,
+    "Income": 24868,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 80,
+    "Income": 49361,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 41,
+    "Income": 35165,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 25,
+    "Income": 20603,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 40,
+    "Income": 43763,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 48,
+    "Income": 77704,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 45,
+    "Income": 58834,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 65,
+    "Income": 30463,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 29,
+    "Income": 40318,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 48,
+    "Income": 93528,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 52,
+    "Income": 35347,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 72,
+    "Income": 51523,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 53,
+    "Income": 93929,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 89,
+    "Income": 32079,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 77,
+    "Income": 22096,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 55,
+    "Income": 43157,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 86,
+    "Income": 47203,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 71,
+    "Income": 72859,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 31,
+    "Income": 44263,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 37,
+    "Income": 71493,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 26,
+    "Income": 88613,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 87,
+    "Income": 85591,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 19,
+    "Income": 93180,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 47,
+    "Income": 87622,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 23,
+    "Income": 98385,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 58,
+    "Income": 87848,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 40,
+    "Income": 58210,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 48,
+    "Income": 74334,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 37,
+    "Income": 79408,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 22,
+    "Income": 41693,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 38,
+    "Income": 89002,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 85,
+    "Income": 56884,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 78,
+    "Income": 58670,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 59,
+    "Income": 23704,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 58,
+    "Income": 85588,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 78,
+    "Income": 95378,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 69,
+    "Income": 80367,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 58,
+    "Income": 20819,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 77,
+    "Income": 27200,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 47,
+    "Income": 44983,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 55,
+    "Income": 78203,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 34,
+    "Income": 90406,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 57,
+    "Income": 79512,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 47,
+    "Income": 86635,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 83,
+    "Income": 22556,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 41,
+    "Income": 91366,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 18,
+    "Income": 41411,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 55,
+    "Income": 44638,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 81,
+    "Income": 83294,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 44,
+    "Income": 85978,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 24,
+    "Income": 80946,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 59,
+    "Income": 34036,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 35,
+    "Income": 37101,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 61,
+    "Income": 29818,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 87,
+    "Income": 66192,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 37,
+    "Income": 66229,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 40,
+    "Income": 38281,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 29,
+    "Income": 75697,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 29,
+    "Income": 50107,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 51,
+    "Income": 95501,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 25,
+    "Income": 80848,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 44,
+    "Income": 94296,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 66,
+    "Income": 93786,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 89,
+    "Income": 49910,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 72,
+    "Income": 35199,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 39,
+    "Income": 84473,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 20,
+    "Income": 59132,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 26,
+    "Income": 92388,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 28,
+    "Income": 47055,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 23,
+    "Income": 64766,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 56,
+    "Income": 75421,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 56,
+    "Income": 37756,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 83,
+    "Income": 39961,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 77,
+    "Income": 28008,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 54,
+    "Income": 93499,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 23,
+    "Income": 63014,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 23,
+    "Income": 53671,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 56,
+    "Income": 32151,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 53,
+    "Income": 33816,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 67,
+    "Income": 95802,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 27,
+    "Income": 68933,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 22,
+    "Income": 40913,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 67,
+    "Income": 35892,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 42,
+    "Income": 73725,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 20,
+    "Income": 39319,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 21,
+    "Income": 92120,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 29,
+    "Income": 49111,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 31,
+    "Income": 71897,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 44,
+    "Income": 22688,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 88,
+    "Income": 39506,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 65,
+    "Income": 84451,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 39,
+    "Income": 83228,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 38,
+    "Income": 23621,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 60,
+    "Income": 75224,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 75,
+    "Income": 21918,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 35,
+    "Income": 32933,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 73,
+    "Income": 28144,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 86,
+    "Income": 74746,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 29,
+    "Income": 20966,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 37,
+    "Income": 83833,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 29,
+    "Income": 23275,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 43,
+    "Income": 62641,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 63,
+    "Income": 41151,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 24,
+    "Income": 40570,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 56,
+    "Income": 49735,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 69,
+    "Income": 53525,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 34,
+    "Income": 70762,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 41,
+    "Income": 67398,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 21,
+    "Income": 59492,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 64,
+    "Income": 96155,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 47,
+    "Income": 65607,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 20,
+    "Income": 89759,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 23,
+    "Income": 97007,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 89,
+    "Income": 69165,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 33,
+    "Income": 78531,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 53,
+    "Income": 61446,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 70,
+    "Income": 20359,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 25,
+    "Income": 40811,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 69,
+    "Income": 75280,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 69,
+    "Income": 99670,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 47,
+    "Income": 50116,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 73,
+    "Income": 57970,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 29,
+    "Income": 91842,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 85,
+    "Income": 83216,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 73,
+    "Income": 44812,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 86,
+    "Income": 46265,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 75,
+    "Income": 23422,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 29,
+    "Income": 52869,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 21,
+    "Income": 58587,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 55,
+    "Income": 78747,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 25,
+    "Income": 77310,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 47,
+    "Income": 41497,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 29,
+    "Income": 49755,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 29,
+    "Income": 62170,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 34,
+    "Income": 56114,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 78,
+    "Income": 92204,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 81,
+    "Income": 22945,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 77,
+    "Income": 33595,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 19,
+    "Income": 30179,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 36,
+    "Income": 95709,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 71,
+    "Income": 53552,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 46,
+    "Income": 71836,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 82,
+    "Income": 56614,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 26,
+    "Income": 43040,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 29,
+    "Income": 42535,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 69,
+    "Income": 54619,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 73,
+    "Income": 59332,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 33,
+    "Income": 56565,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 21,
+    "Income": 84113,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 46,
+    "Income": 39656,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 76,
+    "Income": 51343,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 83,
+    "Income": 72390,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 29,
+    "Income": 42596,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 43,
+    "Income": 81531,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 29,
+    "Income": 61741,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 52,
+    "Income": 36712,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 19,
+    "Income": 95102,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 34,
+    "Income": 45740,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 19,
+    "Income": 27696,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 34,
+    "Income": 87845,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 51,
+    "Income": 72776,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 51,
+    "Income": 68029,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 62,
+    "Income": 44854,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 58,
+    "Income": 81797,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 50,
+    "Income": 28443,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 41,
+    "Income": 23962,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 86,
+    "Income": 29124,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 49,
+    "Income": 44299,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 40,
+    "Income": 59878,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 82,
+    "Income": 42918,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 49,
+    "Income": 53112,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 33,
+    "Income": 78956,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 69,
+    "Income": 83071,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 30,
+    "Income": 92305,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 63,
+    "Income": 47500,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 28,
+    "Income": 92708,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 88,
+    "Income": 78300,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 39,
+    "Income": 54431,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 85,
+    "Income": 43050,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 82,
+    "Income": 24893,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 19,
+    "Income": 82305,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 68,
+    "Income": 54032,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 75,
+    "Income": 21549,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 40,
+    "Income": 67155,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 33,
+    "Income": 45707,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 33,
+    "Income": 63762,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 46,
+    "Income": 89541,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 89,
+    "Income": 37060,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 45,
+    "Income": 98980,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 75,
+    "Income": 97617,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 76,
+    "Income": 72133,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 31,
+    "Income": 32747,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 36,
+    "Income": 36878,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 38,
+    "Income": 49968,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 89,
+    "Income": 56357,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 73,
+    "Income": 92599,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 62,
+    "Income": 46179,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 62,
+    "Income": 60102,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 33,
+    "Income": 26238,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 47,
+    "Income": 66879,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 22,
+    "Income": 83914,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 46,
+    "Income": 60213,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 83,
+    "Income": 57857,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 67,
+    "Income": 95884,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 67,
+    "Income": 45631,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 75,
+    "Income": 36979,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 59,
+    "Income": 51810,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 84,
+    "Income": 96959,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 65,
+    "Income": 85394,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 35,
+    "Income": 39219,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 38,
+    "Income": 51293,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 56,
+    "Income": 20609,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 82,
+    "Income": 97740,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 24,
+    "Income": 96020,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 40,
+    "Income": 32012,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 52,
+    "Income": 97534,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 58,
+    "Income": 34823,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 56,
+    "Income": 91870,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 39,
+    "Income": 91884,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 52,
+    "Income": 65968,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 50,
+    "Income": 52848,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 60,
+    "Income": 22558,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 62,
+    "Income": 29350,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 59,
+    "Income": 50148,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 45,
+    "Income": 62654,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 66,
+    "Income": 65644,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 28,
+    "Income": 95643,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 86,
+    "Income": 24789,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 35,
+    "Income": 48065,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 21,
+    "Income": 91058,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 47,
+    "Income": 28824,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 48,
+    "Income": 39610,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 84,
+    "Income": 26382,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 78,
+    "Income": 98105,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 25,
+    "Income": 79917,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 69,
+    "Income": 50655,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 82,
+    "Income": 39006,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 35,
+    "Income": 89013,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 58,
+    "Income": 20107,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 39,
+    "Income": 94232,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 44,
+    "Income": 90469,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 33,
+    "Income": 79185,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 35,
+    "Income": 57913,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 28,
+    "Income": 69420,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 35,
+    "Income": 84431,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 21,
+    "Income": 61725,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 47,
+    "Income": 85609,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 85,
+    "Income": 96682,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 89,
+    "Income": 90106,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 22,
+    "Income": 74416,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 79,
+    "Income": 86911,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 24,
+    "Income": 60798,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 50,
+    "Income": 23301,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 55,
+    "Income": 55110,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 45,
+    "Income": 38108,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 69,
+    "Income": 69670,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 77,
+    "Income": 69783,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 26,
+    "Income": 94943,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 74,
+    "Income": 47841,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 47,
+    "Income": 79005,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 46,
+    "Income": 62752,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 52,
+    "Income": 31990,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 76,
+    "Income": 39620,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 34,
+    "Income": 97466,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 77,
+    "Income": 98164,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 25,
+    "Income": 92935,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 30,
+    "Income": 91202,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 50,
+    "Income": 83729,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 58,
+    "Income": 31118,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 18,
+    "Income": 71102,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 55,
+    "Income": 74836,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 65,
+    "Income": 68724,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 79,
+    "Income": 81758,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 68,
+    "Income": 95051,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 86,
+    "Income": 93642,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 75,
+    "Income": 53421,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 22,
+    "Income": 86040,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 54,
+    "Income": 85903,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 55,
+    "Income": 45353,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 53,
+    "Income": 72379,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 66,
+    "Income": 86533,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 18,
+    "Income": 50242,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 67,
+    "Income": 58726,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 75,
+    "Income": 33737,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 27,
+    "Income": 66117,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 68,
+    "Income": 65062,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 66,
+    "Income": 41077,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 30,
+    "Income": 25123,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 88,
+    "Income": 99947,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 54,
+    "Income": 79805,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 54,
+    "Income": 58170,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 48,
+    "Income": 92447,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 37,
+    "Income": 40560,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 56,
+    "Income": 78531,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 62,
+    "Income": 77337,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 53,
+    "Income": 90844,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 32,
+    "Income": 20969,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 47,
+    "Income": 32387,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 69,
+    "Income": 33209,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 78,
+    "Income": 70815,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 85,
+    "Income": 72378,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 47,
+    "Income": 94063,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 45,
+    "Income": 71483,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 21,
+    "Income": 79524,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 51,
+    "Income": 46727,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 69,
+    "Income": 87825,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 45,
+    "Income": 96213,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 74,
+    "Income": 56631,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 39,
+    "Income": 27531,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 57,
+    "Income": 37942,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 47,
+    "Income": 24078,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 47,
+    "Income": 59979,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 79,
+    "Income": 86445,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 76,
+    "Income": 48817,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 42,
+    "Income": 92317,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 34,
+    "Income": 94206,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 82,
+    "Income": 30002,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 31,
+    "Income": 61712,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 19,
+    "Income": 25250,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 20,
+    "Income": 23819,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 84,
+    "Income": 74479,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 37,
+    "Income": 58451,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 48,
+    "Income": 20215,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 57,
+    "Income": 31071,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 67,
+    "Income": 39614,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 44,
+    "Income": 63868,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 30,
+    "Income": 51662,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 82,
+    "Income": 93458,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 19,
+    "Income": 51918,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 54,
+    "Income": 47821,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 28,
+    "Income": 48932,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 50,
+    "Income": 74132,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 46,
+    "Income": 90282,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 76,
+    "Income": 82836,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 84,
+    "Income": 44639,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 83,
+    "Income": 65330,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 65,
+    "Income": 89751,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 54,
+    "Income": 31977,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 89,
+    "Income": 89005,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 71,
+    "Income": 98493,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 88,
+    "Income": 39022,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 27,
+    "Income": 42888,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 33,
+    "Income": 85613,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 36,
+    "Income": 76969,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 47,
+    "Income": 81358,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 71,
+    "Income": 90332,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 78,
+    "Income": 66309,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 60,
+    "Income": 81085,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 20,
+    "Income": 46601,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 47,
+    "Income": 64752,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 35,
+    "Income": 57874,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 53,
+    "Income": 26515,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 37,
+    "Income": 62098,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 34,
+    "Income": 55087,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 41,
+    "Income": 66361,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 30,
+    "Income": 99825,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 74,
+    "Income": 84476,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 84,
+    "Income": 38267,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 38,
+    "Income": 48780,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 21,
+    "Income": 86395,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 62,
+    "Income": 32764,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 56,
+    "Income": 48775,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 60,
+    "Income": 44675,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 55,
+    "Income": 75710,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 58,
+    "Income": 52681,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 45,
+    "Income": 91414,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 22,
+    "Income": 65449,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 69,
+    "Income": 70038,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 40,
+    "Income": 45396,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 55,
+    "Income": 80241,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 53,
+    "Income": 50642,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 48,
+    "Income": 95546,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 25,
+    "Income": 29654,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 33,
+    "Income": 52698,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 28,
+    "Income": 37739,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 37,
+    "Income": 59225,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 74,
+    "Income": 44250,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 36,
+    "Income": 80364,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 89,
+    "Income": 63277,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 78,
+    "Income": 37352,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 42,
+    "Income": 53000,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 50,
+    "Income": 39756,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 57,
+    "Income": 39682,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 34,
+    "Income": 62699,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 70,
+    "Income": 80247,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 64,
+    "Income": 98662,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 41,
+    "Income": 50926,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 33,
+    "Income": 35926,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 62,
+    "Income": 44242,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 73,
+    "Income": 20043,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 45,
+    "Income": 98181,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 63,
+    "Income": 38553,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 45,
+    "Income": 49871,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 66,
+    "Income": 23244,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 23,
+    "Income": 71977,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 46,
+    "Income": 53283,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 83,
+    "Income": 78761,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 86,
+    "Income": 85268,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 51,
+    "Income": 96283,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 66,
+    "Income": 75809,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 87,
+    "Income": 25414,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 83,
+    "Income": 58864,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 89,
+    "Income": 64466,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 19,
+    "Income": 93869,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 19,
+    "Income": 58742,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 89,
+    "Income": 83534,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 43,
+    "Income": 51715,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 68,
+    "Income": 29047,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 45,
+    "Income": 28997,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 61,
+    "Income": 64893,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 37,
+    "Income": 32013,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 63,
+    "Income": 77426,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 61,
+    "Income": 90150,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 85,
+    "Income": 71713,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 26,
+    "Income": 56297,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 64,
+    "Income": 67578,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 82,
+    "Income": 24272,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 38,
+    "Income": 59759,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 23,
+    "Income": 66481,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 42,
+    "Income": 44830,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 20,
+    "Income": 58299,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 89,
+    "Income": 46340,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 46,
+    "Income": 30505,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 83,
+    "Income": 65801,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 32,
+    "Income": 28205,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 39,
+    "Income": 40917,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 87,
+    "Income": 76646,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 51,
+    "Income": 98808,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 20,
+    "Income": 78122,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 45,
+    "Income": 40601,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 37,
+    "Income": 86859,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 33,
+    "Income": 48261,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 89,
+    "Income": 82853,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 47,
+    "Income": 21268,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 53,
+    "Income": 41263,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 66,
+    "Income": 78382,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 67,
+    "Income": 30709,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 74,
+    "Income": 44576,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 81,
+    "Income": 41795,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 76,
+    "Income": 42113,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 23,
+    "Income": 39854,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 69,
+    "Income": 70950,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 79,
+    "Income": 77944,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 35,
+    "Income": 64534,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 63,
+    "Income": 41507,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 80,
+    "Income": 86884,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 40,
+    "Income": 53893,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 27,
+    "Income": 76159,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 23,
+    "Income": 71099,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 79,
+    "Income": 24722,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 60,
+    "Income": 46601,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 34,
+    "Income": 61385,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 77,
+    "Income": 60831,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 35,
+    "Income": 47025,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 86,
+    "Income": 43208,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 78,
+    "Income": 27661,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 43,
+    "Income": 26950,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 32,
+    "Income": 68682,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 79,
+    "Income": 66363,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 71,
+    "Income": 83394,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 47,
+    "Income": 69898,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 88,
+    "Income": 58956,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 46,
+    "Income": 20564,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 23,
+    "Income": 85227,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 73,
+    "Income": 89713,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 68,
+    "Income": 86247,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 71,
+    "Income": 20106,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 28,
+    "Income": 53522,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 61,
+    "Income": 54395,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 77,
+    "Income": 49856,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 48,
+    "Income": 93195,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 77,
+    "Income": 53705,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 32,
+    "Income": 31474,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 66,
+    "Income": 57277,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 74,
+    "Income": 52653,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 83,
+    "Income": 56850,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 25,
+    "Income": 91020,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 87,
+    "Income": 40534,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 33,
+    "Income": 80296,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 70,
+    "Income": 76345,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 50,
+    "Income": 94257,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 52,
+    "Income": 65553,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 47,
+    "Income": 80944,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 69,
+    "Income": 66641,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 71,
+    "Income": 23134,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 22,
+    "Income": 98663,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 82,
+    "Income": 62070,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 44,
+    "Income": 96283,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 23,
+    "Income": 90284,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 35,
+    "Income": 86933,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 86,
+    "Income": 51928,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 74,
+    "Income": 47181,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 50,
+    "Income": 87361,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 49,
+    "Income": 37086,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 66,
+    "Income": 43044,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 50,
+    "Income": 24733,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 32,
+    "Income": 57964,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 79,
+    "Income": 63404,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 50,
+    "Income": 77088,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 74,
+    "Income": 87305,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 46,
+    "Income": 76673,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 61,
+    "Income": 52371,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 68,
+    "Income": 81249,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 64,
+    "Income": 32486,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 55,
+    "Income": 83610,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 20,
+    "Income": 76614,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 35,
+    "Income": 84596,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 33,
+    "Income": 98546,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 85,
+    "Income": 90259,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 40,
+    "Income": 77322,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 25,
+    "Income": 90086,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 73,
+    "Income": 22982,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 67,
+    "Income": 85186,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 44,
+    "Income": 49386,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 22,
+    "Income": 30024,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 44,
+    "Income": 52808,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 78,
+    "Income": 76484,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 36,
+    "Income": 46722,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 54,
+    "Income": 65627,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 38,
+    "Income": 79993,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 21,
+    "Income": 27295,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 36,
+    "Income": 49626,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 69,
+    "Income": 21311,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 67,
+    "Income": 88400,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 49,
+    "Income": 92683,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 36,
+    "Income": 79518,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 30,
+    "Income": 81760,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 89,
+    "Income": 52293,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 63,
+    "Income": 73751,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 83,
+    "Income": 38087,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 34,
+    "Income": 41516,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 63,
+    "Income": 96628,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 55,
+    "Income": 24466,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 68,
+    "Income": 52731,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 42,
+    "Income": 41423,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 66,
+    "Income": 53292,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 22,
+    "Income": 75279,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 69,
+    "Income": 69809,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 64,
+    "Income": 42951,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 58,
+    "Income": 28095,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 32,
+    "Income": 95375,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 28,
+    "Income": 25789,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 45,
+    "Income": 59351,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 31,
+    "Income": 55265,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 22,
+    "Income": 34848,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 33,
+    "Income": 28983,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 47,
+    "Income": 25005,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 60,
+    "Income": 52904,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 43,
+    "Income": 99925,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 40,
+    "Income": 22258,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 61,
+    "Income": 64813,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 73,
+    "Income": 34728,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 20,
+    "Income": 44987,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 43,
+    "Income": 96965,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 18,
+    "Income": 59262,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 74,
+    "Income": 20972,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 88,
+    "Income": 23920,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 80,
+    "Income": 20746,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 64,
+    "Income": 86504,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 30,
+    "Income": 63901,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 80,
+    "Income": 99378,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 55,
+    "Income": 25066,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 49,
+    "Income": 87471,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 46,
+    "Income": 91549,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 77,
+    "Income": 90488,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 58,
+    "Income": 50692,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 47,
+    "Income": 75023,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 46,
+    "Income": 72032,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 70,
+    "Income": 93091,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 60,
+    "Income": 72116,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 28,
+    "Income": 64207,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 35,
+    "Income": 81793,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 18,
+    "Income": 55864,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 57,
+    "Income": 80114,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 56,
+    "Income": 50504,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 83,
+    "Income": 34473,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 66,
+    "Income": 99176,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 63,
+    "Income": 58895,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 67,
+    "Income": 69449,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 40,
+    "Income": 50483,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 83,
+    "Income": 43254,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 84,
+    "Income": 62307,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 50,
+    "Income": 91630,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 68,
+    "Income": 64159,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 88,
+    "Income": 34039,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 53,
+    "Income": 25144,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 41,
+    "Income": 98626,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 45,
+    "Income": 53628,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 19,
+    "Income": 58949,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 27,
+    "Income": 49522,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 29,
+    "Income": 25994,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 82,
+    "Income": 30787,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 85,
+    "Income": 36359,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 79,
+    "Income": 69507,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 72,
+    "Income": 76385,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 54,
+    "Income": 66740,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 37,
+    "Income": 25349,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 87,
+    "Income": 33102,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 80,
+    "Income": 52859,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 86,
+    "Income": 79454,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 59,
+    "Income": 28689,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 34,
+    "Income": 30830,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 75,
+    "Income": 35707,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 23,
+    "Income": 97875,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 40,
+    "Income": 66788,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 21,
+    "Income": 52553,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 26,
+    "Income": 30732,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 80,
+    "Income": 59323,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 59,
+    "Income": 68781,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 29,
+    "Income": 59168,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 52,
+    "Income": 30058,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 67,
+    "Income": 22781,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 89,
+    "Income": 20846,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 57,
+    "Income": 86688,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 76,
+    "Income": 39712,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 23,
+    "Income": 26240,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 30,
+    "Income": 36139,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 77,
+    "Income": 42557,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 33,
+    "Income": 29502,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 22,
+    "Income": 47410,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 40,
+    "Income": 57482,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 70,
+    "Income": 44592,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 84,
+    "Income": 46487,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 89,
+    "Income": 64369,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 23,
+    "Income": 66283,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 57,
+    "Income": 95785,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 59,
+    "Income": 45676,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 40,
+    "Income": 90887,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 37,
+    "Income": 46524,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 80,
+    "Income": 38166,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 47,
+    "Income": 63853,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 27,
+    "Income": 63962,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 29,
+    "Income": 63641,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 44,
+    "Income": 30091,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 19,
+    "Income": 48825,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 64,
+    "Income": 91636,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 73,
+    "Income": 42639,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 28,
+    "Income": 37944,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 42,
+    "Income": 40229,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 61,
+    "Income": 33346,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 31,
+    "Income": 23627,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 73,
+    "Income": 61935,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 23,
+    "Income": 29019,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 41,
+    "Income": 27665,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 60,
+    "Income": 26508,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 67,
+    "Income": 37932,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 74,
+    "Income": 96656,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 61,
+    "Income": 77989,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 42,
+    "Income": 21660,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 39,
+    "Income": 51391,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 36,
+    "Income": 83330,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 81,
+    "Income": 50227,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 47,
+    "Income": 26741,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 55,
+    "Income": 22863,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 67,
+    "Income": 22042,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 58,
+    "Income": 72998,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 29,
+    "Income": 52836,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 74,
+    "Income": 41705,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 81,
+    "Income": 85048,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 32,
+    "Income": 44480,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 50,
+    "Income": 40955,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 83,
+    "Income": 54064,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 83,
+    "Income": 21762,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 54,
+    "Income": 90781,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 43,
+    "Income": 37436,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 68,
+    "Income": 98108,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 30,
+    "Income": 55441,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 42,
+    "Income": 27013,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 37,
+    "Income": 30841,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 85,
+    "Income": 78059,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 28,
+    "Income": 71789,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 25,
+    "Income": 80088,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 70,
+    "Income": 74750,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 32,
+    "Income": 76581,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 64,
+    "Income": 79421,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 53,
+    "Income": 81889,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 41,
+    "Income": 72378,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 79,
+    "Income": 92988,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 71,
+    "Income": 53767,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 30,
+    "Income": 38855,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 63,
+    "Income": 68737,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 25,
+    "Income": 52873,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 65,
+    "Income": 34445,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 57,
+    "Income": 50624,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 37,
+    "Income": 98084,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 68,
+    "Income": 74710,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 83,
+    "Income": 55200,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 61,
+    "Income": 69763,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 74,
+    "Income": 44346,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 68,
+    "Income": 52271,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 52,
+    "Income": 43025,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 29,
+    "Income": 84362,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 29,
+    "Income": 74160,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 54,
+    "Income": 82324,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 67,
+    "Income": 45670,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 66,
+    "Income": 47384,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 29,
+    "Income": 65564,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 52,
+    "Income": 97042,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 57,
+    "Income": 64865,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 28,
+    "Income": 87809,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 20,
+    "Income": 55396,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 64,
+    "Income": 38270,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 69,
+    "Income": 92964,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 59,
+    "Income": 49691,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 21,
+    "Income": 38767,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 34,
+    "Income": 74399,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 81,
+    "Income": 73525,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 82,
+    "Income": 89497,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 31,
+    "Income": 62086,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 56,
+    "Income": 83242,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 22,
+    "Income": 32560,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 21,
+    "Income": 87586,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 37,
+    "Income": 69853,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 34,
+    "Income": 75470,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 89,
+    "Income": 74382,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 42,
+    "Income": 34231,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 29,
+    "Income": 89309,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 40,
+    "Income": 97092,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 78,
+    "Income": 74831,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 20,
+    "Income": 80251,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 26,
+    "Income": 70176,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 56,
+    "Income": 20163,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 70,
+    "Income": 90846,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 81,
+    "Income": 25999,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 39,
+    "Income": 55764,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 22,
+    "Income": 36362,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 49,
+    "Income": 62646,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 55,
+    "Income": 56481,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 25,
+    "Income": 20259,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 40,
+    "Income": 25236,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 60,
+    "Income": 77508,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 77,
+    "Income": 75722,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 72,
+    "Income": 66100,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 69,
+    "Income": 90889,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 41,
+    "Income": 65797,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 43,
+    "Income": 72483,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 75,
+    "Income": 48499,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 87,
+    "Income": 82615,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 63,
+    "Income": 37054,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 69,
+    "Income": 34215,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 77,
+    "Income": 69066,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 62,
+    "Income": 60452,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 44,
+    "Income": 98064,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 61,
+    "Income": 98747,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 50,
+    "Income": 57068,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 48,
+    "Income": 35983,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 32,
+    "Income": 85276,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 89,
+    "Income": 69579,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 79,
+    "Income": 48341,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 19,
+    "Income": 57102,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 65,
+    "Income": 81066,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 61,
+    "Income": 55571,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 33,
+    "Income": 44619,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 86,
+    "Income": 79142,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 57,
+    "Income": 53479,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 18,
+    "Income": 67616,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 76,
+    "Income": 45139,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 30,
+    "Income": 84352,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 61,
+    "Income": 84535,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 72,
+    "Income": 83175,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 65,
+    "Income": 65856,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 40,
+    "Income": 36386,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 49,
+    "Income": 44230,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 52,
+    "Income": 88876,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 60,
+    "Income": 87136,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 86,
+    "Income": 54778,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 80,
+    "Income": 24227,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 54,
+    "Income": 62214,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 62,
+    "Income": 79846,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 88,
+    "Income": 75700,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 24,
+    "Income": 57690,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 66,
+    "Income": 89300,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 27,
+    "Income": 89178,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 46,
+    "Income": 42098,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 74,
+    "Income": 30553,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 27,
+    "Income": 68811,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 84,
+    "Income": 93194,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 27,
+    "Income": 47869,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 54,
+    "Income": 66159,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 46,
+    "Income": 60025,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 82,
+    "Income": 36877,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 31,
+    "Income": 31253,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 20,
+    "Income": 25400,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 55,
+    "Income": 57220,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 89,
+    "Income": 96476,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 21,
+    "Income": 20889,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 68,
+    "Income": 80224,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 79,
+    "Income": 50141,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 46,
+    "Income": 29740,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 53,
+    "Income": 32998,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 71,
+    "Income": 74176,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 44,
+    "Income": 23187,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 60,
+    "Income": 87249,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 64,
+    "Income": 79789,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 87,
+    "Income": 20075,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 46,
+    "Income": 39473,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 61,
+    "Income": 48119,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 80,
+    "Income": 91983,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 27,
+    "Income": 20330,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 56,
+    "Income": 26772,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 49,
+    "Income": 39701,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 40,
+    "Income": 37254,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 75,
+    "Income": 58365,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 39,
+    "Income": 89063,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 79,
+    "Income": 37344,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 59,
+    "Income": 34144,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 59,
+    "Income": 55779,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 41,
+    "Income": 47398,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 70,
+    "Income": 23068,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 41,
+    "Income": 88999,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 59,
+    "Income": 27629,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 78,
+    "Income": 52850,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 65,
+    "Income": 46129,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 33,
+    "Income": 23843,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 54,
+    "Income": 64158,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 83,
+    "Income": 99403,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 60,
+    "Income": 73548,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 18,
+    "Income": 75601,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 24,
+    "Income": 94802,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 85,
+    "Income": 35498,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 49,
+    "Income": 78539,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 47,
+    "Income": 41199,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 34,
+    "Income": 55942,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 85,
+    "Income": 90206,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 44,
+    "Income": 60419,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 24,
+    "Income": 75634,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 29,
+    "Income": 81181,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 73,
+    "Income": 37781,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 61,
+    "Income": 98165,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 85,
+    "Income": 53692,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 38,
+    "Income": 41435,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 32,
+    "Income": 26369,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 32,
+    "Income": 41593,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 81,
+    "Income": 85994,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 61,
+    "Income": 93109,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 45,
+    "Income": 70601,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 38,
+    "Income": 48339,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 41,
+    "Income": 47970,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 52,
+    "Income": 38055,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 50,
+    "Income": 96584,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "South",
+    "Age": 83,
+    "Income": 28504,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 40,
+    "Income": 67141,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 39,
+    "Income": 58318,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 75,
+    "Income": 41715,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 86,
+    "Income": 95226,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 63,
+    "Income": 88998,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 57,
+    "Income": 70568,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 42,
+    "Income": 59932,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 35,
+    "Income": 76021,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 70,
+    "Income": 68507,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 26,
+    "Income": 40719,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 23,
+    "Income": 74211,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 28,
+    "Income": 37128,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 80,
+    "Income": 36809,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 47,
+    "Income": 23135,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "West",
+    "Age": 29,
+    "Income": 57945,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 48,
+    "Income": 27780,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 89,
+    "Income": 59463,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 76,
+    "Income": 57569,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 60,
+    "Income": 62419,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 89,
+    "Income": 94682,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 43,
+    "Income": 70088,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 72,
+    "Income": 83561,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 43,
+    "Income": 55335,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 63,
+    "Income": 28547,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "West",
+    "Age": 21,
+    "Income": 80335,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 55,
+    "Income": 45285,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 51,
+    "Income": 94524,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 78,
+    "Income": 43418,
+    "Education": "Bachelor's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 25,
+    "Income": 90411,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "North",
+    "Age": 78,
+    "Income": 57379,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 55,
+    "Income": 38706,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 34,
+    "Income": 58819,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 63,
+    "Income": 34697,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 57,
+    "Income": 35505,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 51,
+    "Income": 45711,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "East",
+    "Age": 83,
+    "Income": 75451,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 86,
+    "Income": 94806,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "East",
+    "Age": 42,
+    "Income": 75919,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 24,
+    "Income": 33001,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 78,
+    "Income": 38835,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 79,
+    "Income": 44135,
+    "Education": "Master's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 77,
+    "Income": 48517,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 47,
+    "Income": 48075,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 46,
+    "Income": 97486,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 42,
+    "Income": 22722,
+    "Education": "High School",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 21,
+    "Income": 50794,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 39,
+    "Income": 24471,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 24,
+    "Income": 63845,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 39,
+    "Income": 34812,
+    "Education": "High School",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 45,
+    "Income": 94656,
+    "Education": "High School",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 44,
+    "Income": 70599,
+    "Education": "PhD",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "South",
+    "Age": 82,
+    "Income": 39679,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 21,
+    "Income": 99023,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "West",
+    "Age": 71,
+    "Income": 97697,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 55,
+    "Income": 48576,
+    "Education": "Bachelor's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 25,
+    "Income": 98718,
+    "Education": "Master's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 29,
+    "Income": 28895,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 20,
+    "Income": 60237,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "West",
+    "Age": 72,
+    "Income": 54999,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "South",
+    "Age": 23,
+    "Income": 98958,
+    "Education": "Master's",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 35,
+    "Income": 53637,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "North",
+    "Age": 23,
+    "Income": 23541,
+    "Education": "PhD",
+    "Employment": "Unemployed"
+  },
+  {
+    "Region": "East",
+    "Age": 48,
+    "Income": 91067,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 21,
+    "Income": 24973,
+    "Education": "Master's",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 18,
+    "Income": 83100,
+    "Education": "Bachelor's",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 62,
+    "Income": 73864,
+    "Education": "Bachelor's",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "North",
+    "Age": 62,
+    "Income": 97403,
+    "Education": "High School",
+    "Employment": "Employed"
+  },
+  {
+    "Region": "East",
+    "Age": 79,
+    "Income": 27931,
+    "Education": "PhD",
+    "Employment": "Retired"
+  },
+  {
+    "Region": "South",
+    "Age": 18,
+    "Income": 69451,
+    "Education": "PhD",
+    "Employment": "Student"
+  },
+  {
+    "Region": "North",
+    "Age": 35,
+    "Income": 97931,
+    "Education": "PhD",
+    "Employment": "Employed"
+  }
+]
