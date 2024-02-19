@@ -41,9 +41,7 @@ class Order(Base):
 
     receiver_id = Column(String, ForeignKey('receivers.id'))
     sender_id = Column(String, ForeignKey('senders.id'))
-    order_delivery_id = Column(String, ForeignKey('order_deliveries.id'))
     package_id = Column(String, ForeignKey('packages.id'))
-    histories = relationship("History", backref="orders")
 
 class Package(Base):
     __tablename__ = 'packages'
@@ -54,33 +52,20 @@ class Package(Base):
     currency = Column(Enum(CurrencyTypeEnum))
     value = Column(Float)
 
-class User(Base):
-    __tablename__ = 'users'
-
-    id = Column(String, primary_key=True, default=uuid.uuid4)
-
 
 class Sender(Base):
     __tablename__ = 'senders'
 
     id = Column(String, primary_key=True, default=uuid.uuid4)
-   
-    user_id = Column(String, ForeignKey('users.id'))
+    email = Column(String)
+    username = Column(String)
+
     address_id = Column(String, ForeignKey('addresses.id'))
-
-class Courier(Base):
-    __tablename__ = 'couriers'
-
-    id = Column(String, primary_key=True, default=uuid.uuid4)
-    phoneNumber = Column(String)
-    plate = Column(String)
-
-    user_id = Column(String, ForeignKey('users.id'))
 
 class Address(Base):
     __tablename__ = 'addresses'
 
-    id = Column(String, primary_key=True, default=uuid.uuid4)
+    id = Column(String, primary_key=True, default=uuid.uuid4, autoincrement=True)
     country = Column(String)
     city = Column(String)
     street = Column(String)
@@ -97,9 +82,16 @@ class Receiver(Base):
 
 class ServiceType(Base):
     __tablename__ = 'service_types'
-    id = Column(Integer, primary_key=True)
+    id = Column(String, primary_key=True, default=uuid.uuid4)
     name = Column(String)
-    description = Column(String)
+
+class Courier(Base):
+    __tablename__ = 'couriers'
+
+    id = Column(String, primary_key=True, default=uuid.uuid4)
+    phoneNumber = Column(String)
+    email = Column(String)
+    username = Column(String)
 
 class OrderDelivery(Base):
     __tablename__ = 'order_deliveries'
@@ -107,13 +99,15 @@ class OrderDelivery(Base):
     id = Column(String, primary_key=True, default=uuid.uuid4)
     servicePrice = Column(Float)
 
-    service_type_id = Column(Integer, ForeignKey('service_types.id'))
+    service_type_id = Column(String, ForeignKey('service_types.id'))
     order_id = Column(String, ForeignKey('orders.id'))
 
 class CourierOrderDelivery(Base):
     __tablename__ = 'courier_order_deliveries'
 
-    id = Column(Integer, primary_key=True, autoincrement=True)
+    id = Column(String, primary_key=True, default=uuid.uuid4)
+    plate = Column(String)
+
     courier_id = Column(String, ForeignKey('couriers.id'))
     order_delivery_id = Column(String, ForeignKey('order_deliveries.id'))
 
@@ -125,13 +119,13 @@ class History(Base):
     date = Column(Date)
     status = Column(Enum(OrderStatusEnum))
     note = Column(String)
+    order_id = Column(String, ForeignKey('orders.id'))
 
 # Define foreign key constraints
 ForeignKeyConstraint(['receiver_id'], ['receivers.id']),
 ForeignKeyConstraint(['sender_id'], ['senders.id']),
 ForeignKeyConstraint(['order_delivery_id'], ['order_deliveries.id']),
 ForeignKeyConstraint(['package_id'], ['packages.id']),
-ForeignKeyConstraint(['user_id'], ['users.id']),
 ForeignKeyConstraint(['address_id'], ['addresses.id'])
 
 
