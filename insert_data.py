@@ -1,3 +1,4 @@
+
 import json
 
 from sqlalchemy import create_engine
@@ -29,15 +30,15 @@ for order_data in data:
    session.flush()
 
   #Sender
-  sender = session.query(Sender).filter_by(id=order_data['sender']['id']).first()
+   sender = session.query(Sender).filter_by(id=order_data['sender']['id']).first()
 
-  if sender is None:
-   address= create_address(order_data['sender'])
-   session.add(address)
-   session.flush()
-   sender = create_sender(order_data['sender'], address.id)
-   session.add(sender)
-   session.flush()
+   if sender is None:
+     address= create_address(order_data['sender'])
+     session.add(address)
+     session.flush()
+     sender = create_sender(order_data['sender'], address.id)
+     session.add(sender)
+     session.flush()
 
    #Package
    package = create_package(order_data['package'])
@@ -46,9 +47,9 @@ for order_data in data:
 
    #Order
    order = create_order(order_data)
-         order.receiver_id =receiver.id
-         order.sender_id =sender.id
-         order.package_id =package.id
+   order.receiver_id =receiver.id
+   order.sender_id =sender.id
+   order.package_id =package.id
 
    session.add(order)
    session.flush()
@@ -68,25 +69,23 @@ for order_data in data:
    session.flush()
 
    #Couriers
-      for courier_data in order_data['couriers']:
+   for courier_data in order_data['couriers']:
+    courier = session.query(Courier).filter_by(id=courier_data['id']).first()
+    if courier is None:
+       courier = create_courier(courier_data)
+       session.add(courier)
+       session.flush()
 
-         courier = session.query(Courier).filter_by(id=courier_data['id']).first()
-
-          if courier is None:
-           courier = create_courier(courier)
-           session.add(courier)
-           session.flush()
-
-      courier_order_delivery =create_courier_order_delivery(courier_data['plate'], courier.id order_delivery.id)
-      session.add(courier_order_delivery)
-      session.flush()
+    courier_order_delivery =create_courier_order_delivery(courier_data['plate'], courier.id, order_delivery.id)
+    session.add(courier_order_delivery)
+    session.flush()
 
    #History
-     for history_data in order_data['history']:
+   for history_data in order_data['history']:
        history =create_history(history_data)
        history.order_id= order.id
-        session.add(history)
-        session.flush()
+       session.add(history)
+       session.flush()
 
 # Commit the transaction to save the data
 session.commit()

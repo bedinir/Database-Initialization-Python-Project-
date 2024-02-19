@@ -2,8 +2,7 @@
 import enum
 import uuid
 from sqlalchemy import create_engine, Column, Integer, String, Float, ForeignKey, Enum, Date, ForeignKeyConstraint
-from sqlalchemy.orm import relationship
-from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm  import declarative_base
 
 # Create an engine to connect to the database
 engine = create_engine('sqlite:///delivery_management.db', echo=True)
@@ -21,11 +20,11 @@ class OrderStatusEnum(enum.Enum):
     delivered = 'delivered'
     distribution = 'for-distribution'
 
- class PackageTypeEnum(enum.Enum):
+class PackageTypeEnum(enum.Enum):
     package= 'package'
     document = 'document'
 
- class CurrencyTypeEnum(enum.Enum):
+class CurrencyTypeEnum(enum.Enum):
     dollar= 'dollar'
     euro = 'euro'
  
@@ -65,7 +64,7 @@ class Sender(Base):
 class Address(Base):
     __tablename__ = 'addresses'
 
-    id = Column(String, primary_key=True, default=uuid.uuid4, autoincrement=True)
+    id = Column(String, primary_key=True, default=uuid.uuid4)
     country = Column(String)
     city = Column(String)
     street = Column(String)
