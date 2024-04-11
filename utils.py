@@ -10,13 +10,13 @@ def create_order(data):
         code=data['code'],
         created_date=datetime.strptime(data['createdDate'], '%Y-%m-%dT%H:%M:%S.%fZ').date(),
         status= get_enum_value(OrderStatusEnum, data['status'], default=OrderStatusEnum.created),
-        ) 
+        )
         return order
 
 def create_package(data):
         package = Package(
         id=data['id'],
-        weight=int(data['weight']), 
+        weight=int(data['weight']),
         package_type= get_enum_value(PackageTypeEnum, data['package_type'], default=PackageTypeEnum.package),
         value=float(data['value']),
         currency=get_enum_value(CurrencyTypeEnum, data['currency'], default=CurrencyTypeEnum.euro),
@@ -26,7 +26,7 @@ def create_package(data):
 def create_courier(data):
         courier = Courier(
         id=data['id'],
-        email=data['email'], 
+        email=data['email'],
         username=data['username'].split('@')[0],
         phoneNumber=data['phoneNumber'],
         )
@@ -44,7 +44,7 @@ def create_history(data):
 def create_sender(data, addressId):
         sender = Sender(
         id=data['id'],
-        email=data['email'], 
+        email=data['email'],
         username=data['username'].split('@')[0],
         address_id=addressId
         )
@@ -57,7 +57,7 @@ def create_receiver(data, addressId):
         address_id=addressId
         )
         return receiver
-    
+
 def create_address(data):
        address = Address(
         id=str(uuid.uuid4()),
@@ -74,7 +74,7 @@ def create_serviceType(service_type_name):
         name=service_type_name
         )
         return serviceType
- 
+
 def create_order_delivery(service_price, service_type, order_id):
         orderDelivery = OrderDelivery(
         id=str(uuid.uuid4()),
