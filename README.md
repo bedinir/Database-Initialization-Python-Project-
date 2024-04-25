@@ -31,10 +31,3 @@ The project is structured as follows:
     python insert_data.py
     ```
 6. The database will be created based on the schema defined in `db_schema.py`, and data will be inserted from the `delivery_system.json` file.
-
-
-This project is licensed under the [MIT License](LICENSE).
-
-### Contact
-
-For any inquiries or support related to the Python project, please contact the project maintainer at [contact@example.com](mailto:contact@example.com).
